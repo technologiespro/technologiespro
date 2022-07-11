@@ -12,7 +12,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/9394904/178273154-ea6b665f-1219-4dd0-a81f-d23587d29768.gif)
  
-![technologiespro](https://github.com/technologiespro/technologiespro/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/technologiespro/technologiespro/blob/output/github-contribution-grid-snake2.svg)
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=technologiespro&repo=Sutil&countColorcountColor)
 
