@@ -18,7 +18,7 @@
 
 
 <div class="row">
-<div class="col-md-4">
+<div style="width:25%;">
 
 ![smart_2fa](https://user-images.githubusercontent.com/9394904/178127325-6f99d064-b3ff-4d97-b782-43dc5d2825d9.png)
 
