@@ -36,7 +36,7 @@
 <figure>
 <a href="https://github.com/technologiespro/smart2fa/releases">
   <img
-  src="https://user-images.githubusercontent.com/9394904/178127325-6f99d064-b3ff-4d97-b782-43dc5d2825d9.png"
+  src="https://user-images.githubusercontent.com/9394904/178302234-12e6d562-0f02-4846-8d13-5e06b3086d4c.png"
   alt="2FA Auth APP" title="Open Source 2FA AUTH"/>
 </a>
 </figure>
