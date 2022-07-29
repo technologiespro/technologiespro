@@ -3,7 +3,7 @@ name: Update stats
 on:
   schedule:
     # Runs at 12am UTC
-    - cron: "* */1 * * *"
+    - cron: "15 */12 * * *"
   workflow_dispatch:
 
 jobs:
