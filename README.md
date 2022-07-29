@@ -1,9 +1,13 @@
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka--> 
+
+<!--END_SECTION:waka-->
+
 <div>
-  <a href="https://github.com/technologiespro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=technologiespro&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologiespro&layout=compact&langs_count=7&theme=prussian"/>
+  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=technologiespro&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologiespro&layout=compact&langs_count=7&theme=prussian"/>
+
 </div>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/9394904/178273008-8bc0cb36-da9e-4533-9a3a-edc2486d3ee4.gif)
