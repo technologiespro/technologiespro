@@ -21,7 +21,7 @@ jobs:
           l3: '#a187de'
           l4: '#c3b8de'
           empty_color: 'rgba(10,10,10,0.05)'
-          snake_color: 'orange'
+          snake_color: 'blue'
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
