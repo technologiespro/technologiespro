@@ -1,6 +1,4 @@
 
-[![wakatime](https://wakatime.com/badge/user/080df4b2-e50d-4fa2-bdc2-21c5cd4c5590.svg)](https://wakatime.com/@080df4b2-e50d-4fa2-bdc2-21c5cd4c5590)
-
 <div>
     <a href="https://github.com/technologiespro">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=technologiespro&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
