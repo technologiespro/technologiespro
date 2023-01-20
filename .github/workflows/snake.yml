@@ -22,14 +22,14 @@ jobs:
           l4: '#c3b8de'
           empty_color: 'rgba(10,10,10,0.05)'
           snake_color: '#ff5722'
+        outputs: |
+        dist/github-snake.svg
+        dist/github-snake-dark.svg?palette=github-dark
+        dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
