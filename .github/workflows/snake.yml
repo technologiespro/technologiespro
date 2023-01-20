@@ -23,7 +23,7 @@ jobs:
           empty_color: 'rgba(10,10,10,0.05)'
           snake_color: '#ff5722'
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
