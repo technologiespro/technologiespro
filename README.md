@@ -78,7 +78,7 @@ Sunday                   6177 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 </a>
 </figure>
 
-![snake animation](https://github.com/technologiespro/technologiespro/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/technologiespro/technologiespro/blob/output/github-snake.svg)
 
 
 
