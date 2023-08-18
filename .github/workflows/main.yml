@@ -14,7 +14,7 @@ jobs:
       - uses: Sutil/snk@master
         id: snake-gif
         with:
-          github_user_name: Sutil
+          github_user_name: technologiespro
           svg_out_path: dist/github-contribution-grid-snake2.svg
           l1: '#6229e6'
           l2: '#8257e6'
