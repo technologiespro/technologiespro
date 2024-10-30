@@ -16,7 +16,7 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/9394904/178273008-8bc0cb36-da9e-4533-9a3a-edc2486d3ee4.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
@@ -24,7 +24,7 @@
 
 > 📦 368.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,232 Contributions in the Year 2024
+> 🏆 1,233 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,8 +32,29 @@
  > 
 > 🔑 109 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 29/10/2024 00:39:54 UTC
+```text
+🌞 Morning                5320 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.12 % 
+🌆 Daytime                11080 commits       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.23 % 
+🌃 Evening                13481 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.70 % 
+🌙 Night                  14030 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.95 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   6326 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.41 % 
+Tuesday                  6438 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.66 % 
+Wednesday                6787 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.46 % 
+Thursday                 6050 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.78 % 
+Friday                   7178 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.35 % 
+Saturday                 4763 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.85 % 
+Sunday                   6369 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.50 % 
+```
+
+
+
+ Last Updated on 30/10/2024 00:37:34 UTC
 <!--END_SECTION:waka-->
 
 
