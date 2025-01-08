@@ -16,7 +16,7 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/9394904/178273008-8bc0cb36-da9e-4533-9a3a-edc2486d3ee4.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
@@ -24,16 +24,35 @@
 
 > 📦 368.6 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 248 Public Repositories 
  > 
 > 🔑 110 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 07/01/2025 00:38:51 UTC
+```text
+🌞 Morning                5346 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.15 % 
+🌆 Daytime                11109 commits       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.24 % 
+🌃 Evening                13498 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.67 % 
+🌙 Night                  14061 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.95 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   6344 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.41 % 
+Tuesday                  6451 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.66 % 
+Wednesday                6812 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.48 % 
+Thursday                 6063 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.78 % 
+Friday                   7196 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.35 % 
+Saturday                 4768 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.83 % 
+Sunday                   6380 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.50 % 
+```
+
+
+
+ Last Updated on 08/01/2025 00:38:49 UTC
 <!--END_SECTION:waka-->
 
 
