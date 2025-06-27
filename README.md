@@ -16,13 +16,15 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/9394904/178273008-8bc0cb36-da9e-4533-9a3a-edc2486d3ee4.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C183%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C186%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 374.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 453 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,7 +54,7 @@ Sunday                   6416 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 26/06/2025 00:37:49 UTC
+ Last Updated on 27/06/2025 00:40:13 UTC
 <!--END_SECTION:waka-->
 
 
