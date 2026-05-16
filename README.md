@@ -16,22 +16,45 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/9394904/178273008-8bc0cb36-da9e-4533-9a3a-edc2486d3ee4.gif)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C795%20hrs%2013%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.06%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 383.2 kB Used in GitHub's Storage 
+> 📦 383.3 kB Used in GitHub's Storage 
  > 
-> 🏆 338 Contributions in the Year 2026
+> 🏆 344 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 278 Public Repositories 
  > 
-> 🔑 141 Private Repositories 
+> 🔑 142 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 15/05/2026 01:08:35 UTC
+```text
+🌞 Morning                5927 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.80 % 
+🌆 Daytime                11701 commits       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.26 % 
+🌃 Evening                13925 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.07 % 
+🌙 Night                  14763 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.87 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   6658 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.38 % 
+Tuesday                  6800 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.68 % 
+Wednesday                7120 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.37 % 
+Thursday                 6293 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.59 % 
+Friday                   7571 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.35 % 
+Saturday                 5172 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.17 % 
+Sunday                   6702 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.47 % 
+```
+
+
+
+ Last Updated on 16/05/2026 01:04:37 UTC
 <!--END_SECTION:waka-->
 
 
