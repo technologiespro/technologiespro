@@ -16,13 +16,15 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/9394904/178273008-8bc0cb36-da9e-4533-9a3a-edc2486d3ee4.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C028%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C033%20hrs%207%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.92%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.3 MB Used in GitHub's Storage 
+> 📦 1.4 MB Used in GitHub's Storage 
  > 
 > 🏆 513 Contributions in the Year 2026
  > 
@@ -53,8 +55,31 @@ Sunday                   4520 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 00:59:33 UTC
+```text
+⏱ AI Coding Time: 1 hr 17 mins (5.48%)
+
+✍️ 6,914 lines written by AI, 2,579 lines written by hand (72.83% AI-written)
+
+🔤 529,170 Input Tokens, 166,555 Output Tokens
+
+💵 $4.09 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 18 AI Prompts
+
+Mimo                     6,914 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Opencode-Cli             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 72.83% of written lines came from AI
+📚 Verbose Prompter — average 3,116 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 27.21% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 00:53:05 UTC
 <!--END_SECTION:waka-->
 
 
