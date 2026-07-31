@@ -85,13 +85,12 @@ Opencode-Cli             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/9394904/178273008-8bc0cb36-da9e-4533-9a3a-edc2486d3ee4.gif)
 
-<table style="border:none;border:0;">
-<tr style="border:none;border:0;">
-<td style="border:none;border:0;width:50%;vertical-align:top;">
+<table style="border:transparent;border:0;">
+<tr style="border:transparent;border:0;">
+<td style="border:transparent;border:0;width:50%;vertical-align:top;">
 
 <a href="https://smartholdem.io">
-  <img style="border:solid 4px #32465e;" 
-  src="sth.jpg"
+  <img style="border:solid 4px #32465e;" src="sth.jpg"
   alt="SmartHoldem Network" title="SmartHoldem WEB 4.0 Network"/>
 <figcaption>Real WEB 4.0</figcaption></a>
 
