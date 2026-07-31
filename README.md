@@ -85,16 +85,19 @@ Opencode-Cli             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/9394904/178273008-8bc0cb36-da9e-4533-9a3a-edc2486d3ee4.gif)
 
-<figure>
+<figure style="float:left;max-width:240px;">
+<a href="https://smartholdem.io">
+  <img style="max-width:240px;border:solid 4px #32465e;"
+  src="sth.jpg"
+  alt="SmartHoldem Network" title="SmartHoldem WEB 4.0 Network"/><figcaption>WEB 4.0</figcaption></a>&nbsp;
+</figure>
+
+<figure style="float:left;max-width:240px;">
 <a href="https://xbts.io">
-  <img
-  src="https://user-images.githubusercontent.com/9394904/178296762-e36a53a1-3f1b-4b76-a13b-1ff079a8e1b9.svg"
-  alt="XBTS DEX" title="XBTS Cross-Chain DEX"/>
+  <img style="max-width:240px;border:solid 4px #32465e;" src="xbts.jpg"
+  alt="XBTS DEX" title="XBTS Cross-Chain DEX"/><figcaption>XBTS DEX Exchange</figcaption>
 </a>
 
-<br/>
-
-<figcaption>XBTS DEX Exchange</figcaption>
 </figure>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/9394904/178273008-8bc0cb36-da9e-4533-9a3a-edc2486d3ee4.gif)
