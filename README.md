@@ -90,7 +90,7 @@ Opencode-Cli             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <img style="max-width:240px;border:solid 4px #32465e;" width="246px"
   src="sth.jpg"
   alt="SmartHoldem Network" title="SmartHoldem WEB 4.0 Network"/>
-<br/><figcaption>WEB 4.0</figcaption></a>&nbsp;
+<br/><figcaption>Real WEB 4.0</figcaption></a>&nbsp;
 </div>
 
 <div style="float:left;width:250px;">
