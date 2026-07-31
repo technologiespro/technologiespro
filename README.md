@@ -96,7 +96,7 @@ Opencode-Cli             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <br/><figcaption>Real WEB 4.0</figcaption></a>
 </figure>
 </td>
- <td style="border:none;width:50%;vertical-align:top;">
+ <td style="border:0;width:50%;vertical-align:top;">
 <figure>
 <a href="https://xbts.io">
   <img style="border:solid 4px #32465e;" src="xbts.jpg"
