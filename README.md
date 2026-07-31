@@ -87,14 +87,14 @@ Opencode-Cli             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <figure style="float:left;max-width:240px;">
 <a href="https://smartholdem.io">
-  <img style="max-width:240px;border:solid 4px #32465e;"
+  <img style="max-width:240px;border:solid 4px #32465e;" width="240px"
   src="sth.jpg"
   alt="SmartHoldem Network" title="SmartHoldem WEB 4.0 Network"/><figcaption>WEB 4.0</figcaption></a>&nbsp;
 </figure>
 
 <figure style="float:left;max-width:240px;">
 <a href="https://xbts.io">
-  <img style="max-width:240px;border:solid 4px #32465e;" src="xbts.jpg"
+  <img style="max-width:240px;border:solid 4px #32465e;" src="xbts.jpg" width="240px"
   alt="XBTS DEX" title="XBTS Cross-Chain DEX"/><figcaption>XBTS DEX Exchange</figcaption>
 </a>
 
