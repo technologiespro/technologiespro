@@ -97,7 +97,7 @@ Opencode-Cli             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 </td>
  <td style="border:none;border:0;width:50%;vertical-align:top;">
 <a href="https://xbts.io">
-  <img style="border:solid 4px #32465e;" src="xbts.jpg"
+  <img style="border:solid 4px #32465e !important;" src="xbts.jpg"
   alt="XBTS DEX" title="XBTS Cross-Chain DEX"/>
 <figcaption>XBTS DEX Exchange</figcaption>
 </a>
