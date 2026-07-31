@@ -88,22 +88,22 @@ Opencode-Cli             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <table style="border:none;border:0;">
 <tr style="border:none;border:0;">
 <td style="border:none;border:0;width:50%;vertical-align:top;">
-<figure>
+
 <a href="https://smartholdem.io">
   <img style="border:solid 4px #32465e;" 
   src="sth.jpg"
   alt="SmartHoldem Network" title="SmartHoldem WEB 4.0 Network"/>
 <figcaption>Real WEB 4.0</figcaption></a>
-</figure>
+
 </td>
- <td style="border:0;width:50%;vertical-align:top;">
-<figure>
+ <td style="border:none;border:0;width:50%;vertical-align:top;">
+
 <a href="https://xbts.io">
   <img style="border:solid 4px #32465e;" src="xbts.jpg"
   alt="XBTS DEX" title="XBTS Cross-Chain DEX"/>
 <figcaption>XBTS DEX Exchange</figcaption>
 </a>
-</figure>
+
 </td>
 </tr>
 </table>
