@@ -87,16 +87,16 @@ Opencode-Cli             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <table style="border:none;">
 <tr style="border:none;">
-<td style="border:none;">
+<td style="border:none;width:50%;vertical-align:top;">
 <figure>
 <a href="https://smartholdem.io">
-  <img style="max-width:240px;border:solid 4px #32465e;" width="246px"
+  <img style="max-width:240px;border:solid 4px #32465e;" 
   src="sth.jpg"
   alt="SmartHoldem Network" title="SmartHoldem WEB 4.0 Network"/>
 <br/><figcaption>WEB 4.0</figcaption></a>
 </figure>
 </td>
- <td style="border:none;">
+ <td style="border:none;width:50%;vertical-align:top;">
 <figure>
 <a href="https://xbts.io">
   <img style="max-width:246px;border:solid 4px #32465e;" src="xbts.jpg"
