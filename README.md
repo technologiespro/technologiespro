@@ -16,7 +16,7 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/9394904/178273008-8bc0cb36-da9e-4533-9a3a-edc2486d3ee4.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C120%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C124%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2052%20mins-blue?style=flat)
 
@@ -58,9 +58,9 @@ Sunday                   4499 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (0.25%)
+⏱ AI Coding Time: 2 mins (0.22%)
 
-✍️ 148 lines written by AI, 836 lines written by hand (15.04% AI-written)
+✍️ 148 lines written by AI, 2,725 lines written by hand (5.15% AI-written)
 
 🔤 20,916 Input Tokens, 2,521 Output Tokens
 
@@ -72,14 +72,14 @@ Mimo                     148 lines           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 Opencode-Cli             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.04% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 5.15% of written lines came from AI
 📝 Concise Prompter — average 168 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 85.5% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.15% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/08/2026 03:19:54 UTC
+ Last Updated on 29/08/2026 00:49:48 UTC
 <!--END_SECTION:waka-->
 
 
